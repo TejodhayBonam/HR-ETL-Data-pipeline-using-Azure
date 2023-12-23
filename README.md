@@ -144,10 +144,5 @@ Here is the HR Dashboard created in Power BI:
 # Conclusion
 This project demonstrates an end-to-end data engineering solution for HR data analysis using Azure services. It streamlines data extraction, transformation, and visualization to provide actionable insights.
 
-# Contacts
-For any questions or further information, feel free to contact me :)
-
-- **linkedin**: <a href="https://www.linkedin.com/in/aymane-maghouti/" target="_blank">Aymane Maghouti</a><br>
-- **Email**: `aymanemaghouti@gmail.com`
 
 
